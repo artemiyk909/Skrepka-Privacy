@@ -1,0 +1,2 @@
+# Skrepka-Privacy
+Privacy Policy

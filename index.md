@@ -1,5 +1,5 @@
 Privacy Policy
-Effective Date: [Insert Date]
+Effective Date: 30.05.2026
 
 This Privacy Policy describes how we ("Company", "we", "us") collect, use, and protect your information when you use our mobile application and related services (hereinafter referred to as the "Platform"). By using the Platform, you agree to the terms of this Policy.
 
@@ -59,5 +59,5 @@ We may update this Policy from time to time. If we make material changes, we wil
 
 8. Contact Us
 If you have any questions, concerns, or requests regarding your privacy, please contact us:
-Email: privacy@skrepka.com
-Address: [Insert Company Legal Address]
+Email: skrepka2net@gmail.com
+Address:
